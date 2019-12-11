@@ -1,5 +1,5 @@
 some:
-  value: "Hello from Config Server"
+  value: "Hello from Config Server v2"
 spring:
   cloud:
     services:
