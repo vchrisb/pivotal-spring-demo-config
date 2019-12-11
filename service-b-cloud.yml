@@ -1,0 +1,6 @@
+some:
+  value: "Hello from Config Server"
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
