@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    services:
+      registrationMethod: direct
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: "https://demo.uaa.sys.moraga.cf-app.com/oauth/token"

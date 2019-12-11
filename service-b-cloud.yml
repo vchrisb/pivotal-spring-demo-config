@@ -1,5 +1,5 @@
 some:
-  value: "Hello from Config Server v2"
+  value: "Hello from Config Server"
 spring:
   jpa:
     hibernate:
