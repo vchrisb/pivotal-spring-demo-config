@@ -1,9 +1,6 @@
 some:
   value: "Hello from Config Server"
 spring:
-  cloud:
-    services:
-      registrationMethod: direct
   jpa:
     hibernate:
       ddl-auto: update
