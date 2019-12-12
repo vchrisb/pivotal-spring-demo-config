@@ -1,6 +1,3 @@
-some:
-  value: "Hello from Config Server"
-spring:
-  jpa:
-    hibernate:
-      ddl-auto: update
+weather:
+  api:
+    endpoint: https://api.openweathermap.org/data/2.5/weather
